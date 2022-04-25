@@ -1,3 +1,3 @@
 # JavaPractice1
 
-하루하루 공부한 Java 파일을 업로드한 파일입니다
+하루하루 공부한 것을 정리하는 Repository입니다
